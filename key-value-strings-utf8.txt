@@ -7185,7 +7185,7 @@
 42038 "Oro en esta mina"
 42039 "Piedra en esta mina"
 42040 "El oro disponible al comerciar aquí"
-42041 "Reuniendo fuerza de ataque"
+42041 "Fuerza de ataque del edificio" // xxxx Mistranslation from "Building attack strength" was misinterpreted as "[Currently] Gathering attack strength"
 42100 "Haz clic para detener el desarrollo de este elemento."
 42101 "Haz clic para parar de desarmar este elemento."
 42102 "Haz clic para parar de armar este elemento."
